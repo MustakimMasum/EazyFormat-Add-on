@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/eazyformat.png" alt="eazyformat" width="160"  height="auto" />
+  <img src="./assets/EazyFormat.png" alt="eazyformat" width="160"  height="auto" />
   <br/>
   <h2><b>EazyFormat for Google Docs™ Format & Citation</b></h2>
 </div>
