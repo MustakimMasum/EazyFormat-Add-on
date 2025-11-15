@@ -1,4 +1,8 @@
-<h2 align="center"><b>EazyFormat for Google Docs™ Format & Citation</b></h2>
+<div align="center">
+  <img src="./src/assets/eazyformat.png" alt="eazyformat" width="160"  height="auto" />
+  <br/>
+  <h2><b>EazyFormat for Google Docs™ Format & Citation</b></h2>
+</div>
 <a name="readme-top"></a>
 EazyFormat is the ultimate Google Docs™ add-on for professional formatting and effortless citation management. With fast style presets, customizable formatting controls, and a powerful built-in Citation Manager, EazyFormat removes the manual work that slows down writing and editing.
 
