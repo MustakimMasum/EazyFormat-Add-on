@@ -47,11 +47,12 @@ Whether you need flawless APA, MLA, Harvard, or Chicago/Turabian styling—or in
 * Students & Researchers: Switch between citation styles instantly and manage all references in one organized library.
 
 ## ✨ Getting Started <a name="getting-started"></a>
-* Install EazyFormat: Available on the Google Workspace™ Marketplace. If installation is stuck, try a different browser or use separate Chrome Profile.
-* Launch the Add-on: Open any Google Doc → Extensions → EazyFormat → Open Sidebar.
+* Install EazyFormat: Available on the Google Workspace™ Marketplace. If installation is stuck, try a different browser or use separate Chrome Profile. [Link to Marketplace listing](https://workspace.google.com/marketplace/app/eazyformat_for_google_docs_format_citati/213832376863)
+* Launch the Add-on: Open any Google Doc → Extensions → EazyFormat for Google Docs™ Format & Citation → Open Sidebar.
+* Create & Manager Citation: Create citations with Auto generator or manually and manage the citation library which allows batch/individual optioans such as pinning them on the sidebar, tag, untag or delete them.
 * Format or Customize: Choose one of the built-in styles or create a custom preset tailored to your needs.
 
-### Note on Multiple Accounts: 
+#### Note on Multiple Accounts: 
 Google’s add-on system may behave unpredictably if multiple accounts are signed in. For best results, use a dedicated browser profile for the account linked to EazyFormat.
 
 ## 👥 Author <a name="author"></a>
