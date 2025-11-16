@@ -9,13 +9,13 @@ EazyFormat is the ultimate Google Docs™ add-on for professional formatting and
 Whether you need flawless APA, MLA, Harvard, or Chicago/Turabian styling—or instant citations you can drop directly into your document—EazyFormat keeps every page organized, accurate, and publication-ready.
 
 ## Table of Contents
-- [✨ New! Integrated Citation Manager](#citation-manager)
-- [✨ Core Formatting Features](#formatting-features)
+- [New! Integrated Citation Manager](#citation-manager)
+- [Core Formatting Features](#formatting-features)
   - [Academic & Custom Style Presets](#academic-custom)
   - [Smart Formatting Engine](#smart-formatting)
-- [✨ Productivity & Cleanup Tools](#productivity-cleanup)
-- [✨ Who Benefits from EazyFormat](#benefits-eazyformat)
-- [✨ Getting Started](#getting-started)
+- [Productivity & Cleanup Tools](#productivity-cleanup)
+- [Who Benefits from EazyFormat](#benefits-eazyformat)
+- [Getting Started](#getting-started)
 - [👥 Author](#author)
 - [⭐️ Show your support](support)
 - [📝 License](#license)
